@@ -7,8 +7,11 @@
 | 主板 |  Gigabyte B460M Aorus Pro|
 | 声卡 |  Realtek ALCS1200A |
 | 网卡 |  Intel I219V12 |
-| 网卡 |  Wi-Fi 6 AX200 |
-| 蓝牙 |  Wi-Fi 6 AX200 自带 |
+| 网卡 |  Wi-Fi6 AX200 - COMFAST AX200 SE |
+| 蓝牙 |  Wi-Fi6 AX200 自带 |
+| 内存 |  Fury DDR4 2666 8G |
+| SSD  |  250G M.2| 
+| 机箱 | Silver Stone PS15B-G |
 
 > 功能 
 
